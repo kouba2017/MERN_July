@@ -28,6 +28,6 @@ In your `package.json` file:
 ```json
 "type": "module",
 "scripts": {
-  "dev": "nodemon server.js"
+  "dev": "npx nodemon "
 }
 ```
